@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "House of AI Infrastructure"
+message: "If you use this framework, please cite it using the following metadata."
+authors:
+  - family-names: "Erickson"
+    given-names: "Lisa"
+    affiliation: "House of AI"
+    orcid: ""
+title: "House of AI Infrastructure Framework"
+version: 1.0
+date-released: 2026-01-01
+url: "https://houseofai.boston"
+repository-code: "https://github.com/HOUSEOFAI/house-of-ai-infrastructure"
+keywords:
+  - artificial intelligence
+  - AI infrastructure
+  - AI workforce
+  - women-led businesses
+  - AI systems
+license: MIT
