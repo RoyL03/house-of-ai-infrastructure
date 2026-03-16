@@ -11,7 +11,7 @@ Created by Lisa Erickson
 • [Definitions](definitions.md)  
 • [AI Research](ai-research.md)  
 • [Skills](skills.md)
-
+ [House of AI Model](house-of-ai-model.md)
 # House of AI Infrastructure
 
 This repository documents frameworks and definitions related to **AI-supported entrepreneurship and AI infrastructure for women-led businesses**.
