@@ -3,6 +3,8 @@
 AI Infrastructure Framework for Women-Led Businesses  
 
 Created by [Lisa Erickson](lisa-erickson.md)
+Founder of HOUSE OF AI™
+https://houseofai.boston
 
 ## Core Documents
 • [Manifesto](manifesto.md)  
