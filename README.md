@@ -39,5 +39,18 @@ By designing AI-supported systems, founders can reduce operational workload and 
 ## Founder Vision
 
 This repository is part of a broader effort to explore how artificial intelligence can support women entrepreneurs in building sustainable and scalable businesses.
+## Key Definitions
 
+### AI Employee
+A digital system assigned a defined operational role inside a business.  
+An AI employee performs tasks such as research, drafting content, summarizing information, or organizing workflows.
+
+### AI Workforce
+A collection of AI employees working together to support a founder or organization.
+
+### AI Infrastructure
+The system of tools, workflows, and knowledge libraries that allow artificial intelligence to operate continuously inside a business.
+
+### AI-Supported Entrepreneurship
+A model of entrepreneurship in which artificial intelligence assists founders with operational tasks, reducing mental load and allowing more focus on leadership and strategy.
 It introduces the concept of **AI-supported entrepreneurship**, where digital systems perform operational roles while the founder focuses on vision and leadership.
